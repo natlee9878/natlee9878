@@ -1,4 +1,4 @@
-# Nathaniel Lee Jian Yang 🌟
+# Nathaniel Lee 🌟
 
 **Passionate Web Developer | Computer Science Graduate | Software Development Enthusiast**
 
