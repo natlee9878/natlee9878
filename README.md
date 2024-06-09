@@ -1,6 +1,6 @@
 # Nathaniel Lee Jian Yang 🌟
 
-**Passionate Software Developer | Computer Science Graduate | Game Development Enthusiast**
+**Passionate Web Developer | Computer Science Graduate | Software Development Enthusiast**
 
 📧 natleejianyang@gmail.com  
 🌏 Adelaide, South Australia  
