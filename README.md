@@ -30,13 +30,3 @@ I hold a Bachelor's degree in Computer Science from the University of Adelaide, 
 ### Languages
 - **English, Mandarin, Malay**
 
-## 🌟 Projects
-
-### Video-Store Web Application
-A full-stack web application enabling users to browse, hire, and purchase movies while administrators manage inventory and transactions. Developed using Ruby on Rails, HTML, JavaScript, CSS, SQL, and Node.js.
-
-### Block Model Compression Algorithm
-A stream processor for compressing large 3D block models used in geological mapping. Developed using Python for prototyping and C++ for final implementation, focusing on enhancing speed and memory efficiency.
-
-### Social Web Application
-A dynamic social web application for event planning and schedule synchronization. Developed using HTML, JavaScript, SQL, and Node.js, employing agile methodologies for iterative development.
