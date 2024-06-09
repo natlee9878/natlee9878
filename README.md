@@ -19,7 +19,7 @@ I hold a Bachelor's degree in Computer Science from the University of Adelaide, 
 ## 🔧 Skills & Tools
 
 ### Programming Languages
-- **Ruby, Python, C++, C#, SQL, JavaScript, HTML, CSS, BASH, Node.js**
+- **Ruby, Python, C++, C, SQL, JavaScript, HTML, CSS, BASH, Assembly, MATLAB, Node.js**
 
 ### Modelling/Editing Tools
 - **Photoshop, Adobe Premier Pro, Blender**
