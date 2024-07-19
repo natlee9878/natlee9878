@@ -4,7 +4,6 @@
 
 📧 natleejianyang@gmail.com  
 🌏 Adelaide, South Australia  
-📞 +61479141611  
 🔗 [LinkedIn](https://www.linkedin.com/in/nathaniel-lee-960b33208)  
 📁 [GitHub](https://github.com/natlee9878)  
 
